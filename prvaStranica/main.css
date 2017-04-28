@@ -1,0 +1,52 @@
+body {
+    background-color : #e7e9e8;
+    font-family: 'Playfair Display', serif;
+}
+
+.card {
+    margin: 40px 50px;
+    width: 330px;
+    box-shadow: 0px 18px 18px -10px rgba(144,144,144,1);
+    background-color: white;
+}
+
+.photo {
+    background-image:url(wave.jpg);
+    height: 280px;
+    background-size: 100% 100%;
+    background-position: center center;
+}
+
+.content {
+    text-align: center;
+    height: 280px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.upper-text {
+    font-size: 10px;
+    font-weight: 700;
+    color: #d9d9d9;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.title {
+    font-size: 37px;
+}
+
+.icon {
+    margin-top: 10px;
+    margin-bottom: 13px;
+    height: 25px;
+    background-image: url(icon.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.text {
+    font-size: 14px;
+    color: #a8a8a8;
+}

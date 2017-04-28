@@ -1,0 +1,121 @@
+body {
+    background-color : #f5f5f5;
+    margin: 0;
+    font-family: 'Cabin', sans-serif;
+}
+
+.top {
+    background-color: white;
+    height: 80px;
+}
+
+.bar {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    width: 100px;
+    height: 24px;
+}
+
+.menu-icon {
+    display: inline-block;
+    width: 22px;
+    height: 24px;
+    background-image: url('https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.menu {
+    position: absolute;
+    display: inline-block;
+    top: 4px;
+    left: 32px;
+    font-size: 15px;
+    height: 24px;
+    text-decoration: none;
+}
+
+.links {
+    padding-top: 15px;
+    text-align: center;
+    color: gray;
+}
+
+.link {
+    text-decoration: none;
+    color: gray;
+}
+
+.make-order {
+    border-color: rgb(255, 45, 87);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px;
+    position: absolute;
+    top: 15px;
+    right: 12px;
+    padding: 5px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.titles {
+    background-color: white;
+    padding-top: 115px;
+    padding-bottom: 140px;
+    
+
+}
+
+.title {
+    font-size: 55px;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.rest {
+    position: absolute;
+    padding-top: 60px;
+
+}
+
+.date {
+    font-size: 15px;
+    text-align: center;
+    padding: 15px;
+    color: gray;
+}
+
+.subtitle-two {
+    font-size: 22px;
+    text-align: center;
+}
+
+.image {
+    background-image:url(phone.jpg);
+    margin-top: 30px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 275px;
+    margin-bottom: 30px;
+}
+
+.text {
+    
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.dots {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 200px;
